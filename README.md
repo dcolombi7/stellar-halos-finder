@@ -1,4 +1,5 @@
 HALOS: A Tool for Filtering and Visualizing Stellar Halo Radial Density Profiles from JWST NIRCam Observations
+
 Author: Daniela Sofia Colombi | University of Maryland - College Park | May 15, 2026
 
 PURPOSE:
